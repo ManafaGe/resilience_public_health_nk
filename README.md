@@ -1,10 +1,10 @@
-# Shiny Resilience Dashboard 
+# Shiny Resilience GeoViz Tool 
 
-This repository contains the code and data for my Master's Thesis project's interactive dashboard. The dashboard visually represents the resilience index and sub-indices I developed for Berlin's Neukölln.
+This repository contains the code and data for the geovisualization tool developed for my Master's thesis. The tool visually represents the resilience index and sub-indices for the district Neukölln in Berlin in the context of public health emergencies.
 
 ## Overview
 
-The project employs geovisualization tools to enhance scientific communication and critical thinking. It provides an interactive geovisualization tool to explore resilience indices, sub-indices, and individual indicators. The tool facilitates decision-making for public health authorities, offering a baseline for assessing resilience to emergencies, enabling location comparisons, identifying specific resilience factors in neighborhoods, and tracking improvements over time.
+The project provides an interactive geovisualization tool to examine resilience indices, sub-indices, and individual indicators.  The tool can be used for exploration or to facilitate decision-making by health authorities. It can serve as an initial baseline to examine existing health-related resilience capacities, compare places of interest to one another, and determine specific factors of resilience across the neighborhoods.
 
 ## Getting started
 ### Prerequisites
