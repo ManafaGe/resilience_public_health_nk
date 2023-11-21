@@ -28,7 +28,7 @@ devtools::install_github("ricardo-bion/ggradar",
 ```
 
 ### Running the App
-To run the app, either open the project in RStudio or run it in CLI:
+To run the app, either open the project in RStudio and press `Run App` or run it in CLI:
 ```bash
 Rscript app.R
 ```
